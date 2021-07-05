@@ -1,0 +1,61 @@
+@media screen and (max-width:768px) {
+    .speaker img {
+        width: 50%;
+    }
+    .speaker {
+        text-align: center;
+        margin-bottom: 50px !important;
+    }
+    .mt-10 {
+        margin-top: 0px !important;
+    }
+    .chapter span {
+        margin: inherit;
+    }
+    .learn .para {
+        position: relative;
+        padding: 50px 20px;
+    }
+    .top-banner h1 {
+        font-size: 40px;
+    }
+    .topmask {
+        text-align: center;
+    }
+    .gearup span {
+        position: initial;
+        display: block;
+    }
+    /* .chap_det_padd {
+        margin: 40px 0px 40px 0px;
+    } */
+    .learn_padding {
+        padding: 25px;
+    }
+    .mobileappqr {
+        display: none;
+    }
+    .padd-end {
+        padding-right: initial!important;
+    }
+    .chapterdate {
+        display: inline-block;
+    }
+    .moblediv {
+        display: initial;
+    }
+    .deskdiv {
+        display: none;
+    }
+    .learn .secnd {
+        background-color: var(--col_8);
+        color: #f8f9fa!important;
+    }
+}
+
+@media screen and (max-width:400px) {
+    .register_now {
+        padding: 15px 25px;
+        font-size: 13px;
+    }
+}
